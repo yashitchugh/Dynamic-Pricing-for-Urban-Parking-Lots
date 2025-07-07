@@ -1,7 +1,7 @@
 
 # 🅿️ Smart Parking Pricing System – Final Report
-**Project by:** *[Your Name]*  
-**Institution:** *IIT*  
+**Project by:** *[Yashit Chugh]*  
+**Institution:** *IIT Guwahati *  
 **Technology Stack:** Python, Pandas, Bokeh, Pathway  
 
 ---
