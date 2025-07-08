@@ -116,10 +116,9 @@ Stream data in real-time and update pricing on the fly.
   ```python
   price = 10 + (occ_max - occ_min) / cap
   ```
+![Screenshot 2025-07-07 235458](https://github.com/user-attachments/assets/b0ac8f55-5c4d-4c98-876b-2f82a0c08199)
 
-✅ **Why:** Needed for real-time, reactive system to simulate deployment on smart city infrastructure.
 
----
 
 ## 📈 Visualization (Bokeh)
 
@@ -133,6 +132,7 @@ Stream data in real-time and update pricing on the fly.
 p.line(df['timestamp'], df['demand_price'], ...)
 p.line(df['timestamp'], df['competitive_price'], line_dash='dashed', ...)
 ```
+![Screenshot 2025-07-07 235510](https://github.com/user-attachments/assets/5f151c1b-43ad-4da9-8f19-960bd61a7e69)
 
 ✅ **Justification:** Demonstrates the **evolution of pricing** clearly and justifies behavior visually.
 
